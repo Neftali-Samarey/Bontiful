@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/kev-th/donar#readme",
   "dependencies": {
-    "express": "^4.16.3",
+    "express": "^4.17.3",
     "firebase": "^4.13.1",
     "fs": "0.0.1-security",
     "nodemon": "^1.17.3",
